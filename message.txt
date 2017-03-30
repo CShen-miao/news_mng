@@ -1,4 +1,4 @@
-this is a testing for git pull bbbbbb
+this is a testing for git pull
 git add .
 git commit
 git push origin master
