@@ -2,3 +2,4 @@ new message message local add
 ADD NEW MESSAGE
 add another message
 add another new message message message
+remote add
