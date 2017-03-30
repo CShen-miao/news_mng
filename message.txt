@@ -1,4 +1,4 @@
-new message
+new message message
 ADD NEW MESSAGE
 add another message
 add another new message
